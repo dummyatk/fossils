@@ -1,0 +1,3 @@
+# Fossil demo directory
+
+Awesome
